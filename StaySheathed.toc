@@ -1,7 +1,7 @@
-## Interface: 100002
+## Interface: 100007
 ## Title: StaySheathed
 ## Notes: Sheath your weapons upon certain conditions.
 ## Author: Keyboardturner
-## Version: 0.0.2
+## Version: 0.0.4
 
 StaySheathed.lua
