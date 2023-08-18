@@ -9,3 +9,6 @@ Just a small simple script to check and make sure your weapon remains sheathed.
 <p>&nbsp;</p>
 <p><em>Maybe future idea:</em></p>
 <p><em>Add ability for quick slash command that will temporarily stop sheathing function.</em></p>
+
+
+A link to my discord for addon projects and other things can be found [here](https://discord.gg/tA4rrmjPp8).
