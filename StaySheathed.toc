@@ -1,8 +1,11 @@
-## Interface: 100107
+## Interface: 100200
 ## Title: StaySheathed
 ## Notes: Sheath your weapons upon certain conditions.
 ## IconTexture: Interface/Addons/StaySheathed/StaySheathed.blp
 ## Author: Keyboardturner
-## Version: 0.0.7
+## Version: @project-version@
+## X-Curse-Project-ID: 413888
+## X-WoWI-ID: 26481
+## X-Wago-ID: qv63mlGb
 
 StaySheathed.lua
