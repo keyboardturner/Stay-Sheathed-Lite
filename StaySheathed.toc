@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: StaySheathed
 ## Notes: Sheath your weapons upon certain conditions.
 ## IconTexture: Interface/Addons/StaySheathed/StaySheathed.blp
